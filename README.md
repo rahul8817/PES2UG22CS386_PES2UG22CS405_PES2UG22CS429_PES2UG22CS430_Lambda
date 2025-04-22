@@ -1,12 +1,12 @@
-<h1 align="center">⚡ Serverless Function Platform </h1>
+<h1 align="center">Serverless Function Platform </h1>
 
 <p align="center">
-  A lightweight serverless computing platform that lets you upload, manage, and run Python and JavaScript functions inside Docker or gVisor sandboxes. Includes monitoring and metrics dashboard.
+  A lightweight serverless computing platform that lets you upload, manage, and run Python functions inside Docker or gVisor sandboxes. Includes monitoring and metrics dashboard.
 </p>
 
 <hr>
 
-<h2>🚀 Features</h2>
+<h2>Features</h2>
 <ul>
   <li>Upload and run serverless functions in Python or JavaScript</li>
   <li>Support for Docker and gVisor runtimes</li>
@@ -53,7 +53,7 @@ source venv/bin/activate
 
 <hr>
 
-<h2>🧪 Supported Languages</h2>
+<h2>Supported Languages</h2>
 <ul>
   <li>Python 3</li>
 </ul>
@@ -69,7 +69,7 @@ source venv/bin/activate
 
 <hr>
 
-<h2>📦 API Endpoints</h2>
+<h2>API Endpoints</h2>
 
 <pre><code>POST   /functions/                     # Upload a new function
 GET    /functions/                    # List all functions
@@ -83,7 +83,7 @@ DELETE /functions/{id}                # Delete a function
 
 <hr>
 
-<h2>📌 Notes</h2>
+<h2>Notes</h2>
 <ul>
   <li>Uses Docker and optionally gVisor (ensure both are installed and configured)</li>
   <li>Execution is sandboxed with timeout and resource control</li>
@@ -92,7 +92,7 @@ DELETE /functions/{id}                # Delete a function
 
 <hr>
 
-<h2>🎯 Future Improvements</h2>
+<h2>Future Improvements</h2>
 <ul>
   <li>Multi-language support (Go, Ruby, etc.)</li>
   <li>Auto-scaling execution pools</li>
@@ -102,13 +102,8 @@ DELETE /functions/{id}                # Delete a function
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
+<h2>Authors</h2>
 
 <p>Developed by <strong>pes2ug22cs386,pes2ug22cs405,pes2ug22cs429,pes2ug22cs430</strong></p>
-<p>Feel free to ⭐ the repo and contribute!</p>
 
 <hr>
-
-<h2>📝 License</h2>
-
-<p>This project is licensed under the MIT License.</p>
