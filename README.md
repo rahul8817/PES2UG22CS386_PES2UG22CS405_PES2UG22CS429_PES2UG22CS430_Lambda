@@ -16,45 +16,6 @@
   <li>SQLite backend with FastAPI-powered API</li>
 </ul>
 
-<hr>
-
-<h2>📁 Project Structure</h2>
-
-<pre>
-.
-├── backend
-│   ├── api
-│   │   ├── __init__.py
-│   │   └── routes.py
-│   ├── core
-│   │   ├── docker_executor.py
-│   ├── db
-│   │   ├── database.py
-│   │   ├── __init__.py
-│   ├── __init__.py
-│   ├── main.py
-│   ├── schemas
-│   │   ├── function_schema.py
-│   │   ├── __init__.py
-│   └── utils
-│       ├── file_handler.py
-│       ├── __init__.py
-├── docker
-│   ├── base_node.Dockerfile
-│   ├── base_python.Dockerfile
-│   ├── code.js
-│   └── code.py
-├── frontend
-│   ├── app.py
-│   └── utils.py
-├── functions
-├── functions.db
-├── README.md
-└── requirements.txt
-</pre>
-
-<hr>
-
 <h2>🛠️ Setup Instructions</h2>
 
 <h3>1. Clone the Repository</h3>
