@@ -16,7 +16,7 @@
   <li>SQLite backend with FastAPI-powered API</li>
 </ul>
 
-<h2>🛠️ Setup Instructions</h2>
+<h2>Setup Instructions</h2>
 
 <h3>1. Clone the Repository</h3>
 
