@@ -8,7 +8,7 @@
 
 <h2>Features</h2>
 <ul>
-  <li>Upload and run serverless functions in Python or JavaScript</li>
+  <li>Upload and run serverless functions in Python</li>
   <li>Support for Docker and gVisor runtimes</li>
   <li>View function logs, metrics, and performance graphs</li>
   <li>Edit, delete, and manage uploaded functions</li>
